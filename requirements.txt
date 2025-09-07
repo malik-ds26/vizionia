@@ -1,0 +1,11 @@
+# App
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+requests
+
+# Tests
+pytest
+pytest-cov
